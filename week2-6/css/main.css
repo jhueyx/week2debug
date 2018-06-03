@@ -1,0 +1,12 @@
+.tomato {
+	background-color: tomato;
+	height: 400px;
+	display: inline-block;
+	width: 50%;
+}
+.lime {
+	background-color: lime;
+	height: 400px;
+	display: inline-block;
+	width: 50%;
+}
